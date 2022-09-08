@@ -376,6 +376,7 @@ a:active {
     }
     #menu {
         display:inline-block;
+	margin: auto;
     }
     #onlywide {
         display:none !important;
