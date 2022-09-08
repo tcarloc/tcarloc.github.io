@@ -352,11 +352,11 @@ a:active {
         text-align:center;
     }
     #middle h1 {
-        width:80%;
+        width:100vw;
 	font-size:50px;
 }	
     #middle {
-        width:80%;
+        width:100vw;
        
     }
     #middle table {
