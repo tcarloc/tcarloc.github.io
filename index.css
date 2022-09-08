@@ -99,7 +99,7 @@ body {
     justify-content:center;
     z-index:4;
     transition:0.4s ease-in-out;
-    border-radius:0px 0px 100px 100px;
+    border-radius:0px 100px 0px 100px;
 }
 #work {
     width:10vw;
@@ -117,7 +117,7 @@ body {
     justify-content:center;
     z-index:4;
     transition:0.4s ease-in-out;
-    border-radius:0px 0px 100px 100px;
+    border-radius:100px 0px 100px 0px;
 }
 #contact {
     width:10vw;
