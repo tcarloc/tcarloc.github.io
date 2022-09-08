@@ -137,15 +137,15 @@ body {
     border-radius:100px 100px 0px 0px;
 }
 #about:hover {
-    background:rgba(255,50,50,0.9);
+    background:rgba(115, 166, 87,0.9);
     cursor:pointer;
 }
 #work:hover {
-    background:rgba(255,50,50,0.9);
+    background:rgba(115, 166, 87,0.9);
     cursor:pointer;
 }
 #contact:hover {
-    background:rgba(255,50,50,0.9);
+    background:rgba(115, 166, 87,0.9);
     cursor:pointer;
 }
 #middle table {
@@ -165,13 +165,13 @@ body {
 }
 .social:hover { 
     cursor: pointer;
-    color:rgb(255, 50, 50);
+    color:rgb(115, 166, 87);
 }
 .container {
     width:90vw;
     height:90vh;
     padding:5vh 5vw;
-    background:rgb(255, 50, 50);
+    background:rgb(115, 166, 87);
     color:#fff;
     z-index:9;
     position:fixed;
@@ -225,13 +225,13 @@ body {
 }
 .btn_one:hover {
     cursor:pointer;
-    color:rgb(255, 50, 50);
+    color:rgb(115, 166, 87);
     background:#fff;
 }
 .btn_two {
     font-size:18px;
     font-family: 'Josefin Sans', sans-serif;
-    color:rgb(255, 50, 50);
+    color:rgb(115, 166, 87);
     background:#fff;
     border:3px solid #fff;
     padding:8px 40px;
@@ -249,7 +249,7 @@ body {
     margin:20px 1%;
     background:transparent;
     border:0px;
-    border-bottom:3px solid rgba(255,255,255,0.5);
+    border-bottom:3px solid rgba(115, 166, 87,0.5);
     padding:8px 10px;
     font-family: 'Poppins', sans-serif;
     font-size:18px;
@@ -262,7 +262,7 @@ body {
     margin:20px 1%;
     padding:8px 10px;
     border:0px;
-    border-bottom:3px solid rgba(255,255,255,0.5);
+    border-bottom:3px solid rgba(115, 166, 87,0.5);
     padding:8px 10px;
     font-family: 'Poppins', sans-serif;
     font-size:18px;
@@ -274,11 +274,11 @@ body {
 }
 .container form input:focus {
     outline:none;
-    border-bottom:3px solid rgba(255, 255, 255,1);
+    border-bottom:3px solid rgba(115, 166, 87,1);
 }
 .container form textarea:focus {
     outline:none;
-    border-bottom:3px solid rgba(255, 255, 255,1);
+    border-bottom:3px solid rgba(115, 166, 87,1);
 }
 ::placeholder {
     color:#fff;
@@ -295,7 +295,7 @@ body {
     font-weight:bold;
 }
 #footer a {
-    color:rgb(255, 50, 50) ;
+    color:rgb(115, 166, 87) ;
 }
 #particles-js {
     position:fixed;
@@ -310,14 +310,14 @@ body {
     background: #fff; 
 }
 ::-webkit-scrollbar-thumb {
-    background: rgb(255, 50, 50); 
+    background: rgb(115, 166, 87); 
 }
 ::-webkit-scrollbar-thumb:hover {
-    background: rgba(255, 50, 50,0.8); 
+    background: rgba(115, 166, 87,0.8); 
 }
 ::selection {
 	color: #fff;
-	background: rgb(255, 50, 50);
+	background: rgb(115, 166, 87);
 }
 
 @media (max-width: 800px){ 
