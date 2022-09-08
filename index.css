@@ -351,9 +351,12 @@ a:active {
     #footer {
         text-align:center;
     }
+    #middle h1 {
+    maxwidth:80%
+}	
     #middle {
         maxwidth:80%;
-        padding:0px 5vw;
+       
     }
     #middle table {
         width:80%;
