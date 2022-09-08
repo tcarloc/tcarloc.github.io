@@ -80,6 +80,7 @@ body {
 }
 #middle h1 {
     color:rgb(115, 166, 87);
+    max-width: 100%;
     font-size:70px;
 }
 #about {
