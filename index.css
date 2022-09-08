@@ -354,13 +354,16 @@ a:active {
     #middle h1 {
         width:100vw;
 	font-size:50px;
+	margin: 0 auto;
 }	
     #middle {
-        width:100vw;
+        width:90vw;
+	margin: 0 auto;
        
     }
     #middle table {
         width:80%;
+	margin: 0 auto;
     }
     .container form input {
         width:90%;
