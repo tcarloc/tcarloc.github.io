@@ -68,7 +68,6 @@ body {
 #middle {
     width:100vw;
     height:90vh;
-    maxwidth:100%;
     display:flex;
     flex-direction:column;
     justify-content:center;
@@ -353,7 +352,7 @@ a:active {
         text-align:center;
     }
     #middle {
-        width:90vw;
+        maxwidth:80%;
         padding:0px 5vw;
     }
     #middle table {
