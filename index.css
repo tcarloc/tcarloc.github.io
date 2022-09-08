@@ -358,13 +358,13 @@ a:active {
     margin-right: auto;
 }	
     #middle {
-        width:90vw;
+        width:100vw;
 	margin-left: auto;
     margin-right: auto;
-       
+       font-size:22px;
     }
     #middle table {
-        width:80%;
+        width:100vw;
 	margin-left: auto;
     margin-right: auto;;
     }
