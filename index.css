@@ -376,7 +376,8 @@ a:active {
     }
     #menu {
         display:inline-block;
-	margin: auto;
+	margin-left: auto;
+    margin-right: auto;
     }
     #onlywide {
         display:none !important;
