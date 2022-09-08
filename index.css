@@ -352,10 +352,10 @@ a:active {
         text-align:center;
     }
     #middle h1 {
-    maxwidth:80%;
+        width:80%;
 }	
     #middle {
-        maxwidth:80%;
+        width:80%;
        
     }
     #middle table {
