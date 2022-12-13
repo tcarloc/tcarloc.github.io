@@ -208,6 +208,10 @@ body {
 	cursor:text;
     text-decoration:underline;
 }
+
+.container h2 {
+cursor:text;
+}
 .container p {
     font-size:21px;
 	cursor:text;
