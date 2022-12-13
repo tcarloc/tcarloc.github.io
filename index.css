@@ -184,7 +184,7 @@ body {
     transition:0.4s ease-in-out;
 }
 .container div:hover {
-    cursor:text;
+    cursor:pointer;
 }
 .container section {
     margin:8vh 0px;
@@ -205,10 +205,12 @@ body {
 }
 .container h1 {
     font-size:60px;
+	cursor:text;
     text-decoration:underline;
 }
 .container p {
     font-size:21px;
+	cursor:text;
 }
 .btn_one {
     font-size:18px;
